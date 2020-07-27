@@ -6,3 +6,4 @@ documents
             http://highscalability.com/
 3. https://github.com/donnemartin/system-design-primer
 4. Database isolication : https://en.wikipedia.org/wiki/Isolation_(database_systems)
+5. Microservices Desgin Patterns : https://dzone.com/articles/design-patterns-for-microservices
