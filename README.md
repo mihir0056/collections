@@ -8,3 +8,4 @@ documents
 4. Database isolication : https://en.wikipedia.org/wiki/Isolation_(database_systems)
 5. Microservices Desgin Patterns : https://dzone.com/articles/design-patterns-for-microservices
 6. Sorting in Java : https://www.baeldung.com/java-sorting ; https://www.educba.com/sorting-in-java/
+7. GIT Essentials : https://dzone.com/articles/lesser-known-git-commands?edition=617296&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-07-27
